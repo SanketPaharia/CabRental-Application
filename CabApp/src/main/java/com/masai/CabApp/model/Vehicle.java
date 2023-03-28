@@ -15,7 +15,7 @@ public class Vehicle {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     public int id ;
- //   private Enum type ;
+   private CarType type ;
     private String registrationNumber ;
     private int engineNumber ;
     private int passengerCapacity ;
@@ -23,10 +23,9 @@ public class Vehicle {
     private int costPerKM ;
     private boolean AC ;
 
-
-   // private Driver driver ;
-
-
+    public Vehicle(CarType sedan) {
+    }
 
 
+    // private Driver driver ;
 }
