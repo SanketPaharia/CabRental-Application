@@ -1,4 +1,4 @@
-# REST API for CabRental Application (MY CAB) .
+# MyCab Cab Rental Application .
 
 
 
@@ -13,3 +13,13 @@ The MyCab cab rental application is a Java-based application that allows custome
 
 
 This is a solo project, completed by myself.
+
+
+Features
+The MyCab cab rental application includes the following features:
+
+Customers can search for available cabs and book them for a specific date and time.
+Customers can view their booking history and cancel bookings if needed.
+Drivers can view their assigned bookings and mark them as completed when they are finished.
+Drivers can view their earnings and the total number of bookings they have completed.
+Admins can view and manage all bookings and drivers.
