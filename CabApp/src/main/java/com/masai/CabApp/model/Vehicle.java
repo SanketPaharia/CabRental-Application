@@ -5,8 +5,8 @@ import org.springframework.boot.SpringApplication;
 
 public class Vehicle {
 
-    private int id ;
-    private Enum type ;
+    public int id ;
+ //   private Enum type ;
     private String registrationNumber ;
     private int engineNumber ;
     private int passengerCapacity ;
@@ -15,7 +15,7 @@ public class Vehicle {
     private boolean AC ;
 
 
-    private Driver driver ;
+   // private Driver driver ;
 
 
 
