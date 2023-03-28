@@ -5,7 +5,7 @@
 <img
   align="right"
         width="25%"
-        src="https://github.com/annax3/natural-sort-6825/blob/main/Payment%20guru%20logo.png"
+        src="https://github.com/SanketPaharia/CabRental-Application/blob/master/mycab.png"
         alt=""
       /> 
 
